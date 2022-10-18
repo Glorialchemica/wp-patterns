@@ -1,2 +1,2 @@
 # wp-patterns
-My Wp Patterns repository
+My WP Patterns repository
