@@ -1,0 +1,96 @@
+<!-- wp:group {"style":{"color":{"gradient":"linear-gradient(90deg,rgb(120,149,178) 37%,rgb(245,239,230) 37%)"}}} -->
+<div class="wp-block-group has-background" style="background:linear-gradient(90deg,rgb(120,149,178) 37%,rgb(245,239,230) 37%)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"style":{"color":{"background":"#aebdca"}}} -->
+<div class="wp-block-group has-background" style="background-color:#aebdca"><!-- wp:paragraph {"style":{"typography":{"textTransform":"uppercase"}},"textColor":"palette-color-8"} -->
+<p class="has-palette-color-8-color has-text-color" style="text-transform:uppercase">- ipsum ornare</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"500","textTransform":"uppercase"}}} -->
+<h2 style="font-style:normal;font-weight:500;text-transform:uppercase">LOREM.<br>IPSUM DOLOR.<br>Phasellus id nibh.</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":"20%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:20%"><!-- wp:html -->
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" fill="#7995b1" class="bi bi-qr-code-scan" viewBox="0 0 16 16">
+  <path d="M0 .5A.5.5 0 0 1 .5 0h3a.5.5 0 0 1 0 1H1v2.5a.5.5 0 0 1-1 0v-3Zm12 0a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0V1h-2.5a.5.5 0 0 1-.5-.5ZM.5 12a.5.5 0 0 1 .5.5V15h2.5a.5.5 0 0 1 0 1h-3a.5.5 0 0 1-.5-.5v-3a.5.5 0 0 1 .5-.5Zm15 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1 0-1H15v-2.5a.5.5 0 0 1 .5-.5ZM4 4h1v1H4V4Z"></path>
+  <path d="M7 2H2v5h5V2ZM3 3h3v3H3V3Zm2 8H4v1h1v-1Z"></path>
+  <path d="M7 9H2v5h5V9Zm-4 1h3v3H3v-3Zm8-6h1v1h-1V4Z"></path>
+  <path d="M9 2h5v5H9V2Zm1 1v3h3V3h-3ZM8 8v2h1v1H8v1h2v-2h1v2h1v-1h2v-1h-3V8H8Zm2 2H9V9h1v1Zm4 2h-1v1h-2v1h3v-2Zm-4 2v-1H8v1h2Z"></path>
+  <path d="M12 9h2V8h-2v1Z"></path>
+</svg>
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"66.66%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:66.66%"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"100"}},"textColor":"palette-color-4"} -->
+<h3 class="has-palette-color-4-color has-text-color" style="font-style:normal;font-weight:100">LOREM IPSUM</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Suspendisse volutpat, risus sed semper aliquam, est dui vulputate nibh, ut consequat mauris purus ac orci.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":"20%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:20%"><!-- wp:html -->
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" fill="#7995b1" class="bi bi-activity" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M6 2a.5.5 0 0 1 .47.33L10 12.036l1.53-4.208A.5.5 0 0 1 12 7.5h3.5a.5.5 0 0 1 0 1h-3.15l-1.88 5.17a.5.5 0 0 1-.94 0L6 3.964 4.47 8.171A.5.5 0 0 1 4 8.5H.5a.5.5 0 0 1 0-1h3.15l1.88-5.17A.5.5 0 0 1 6 2Z"></path>
+</svg>
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"66.66%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:66.66%"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"100","textTransform":"uppercase"}}} -->
+<h3 style="font-style:normal;font-weight:100;text-transform:uppercase">dolor sit amet</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Suspendisse volutpat, risus sed semper aliquam, est dui vulputate nibh, ut consequat mauris purus ac orci.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":"20%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:20%"><!-- wp:html -->
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" fill="#7995b1" class="bi bi-aspect-ratio" viewBox="0 0 16 16">
+  <path d="M0 3.5A1.5 1.5 0 0 1 1.5 2h13A1.5 1.5 0 0 1 16 3.5v9a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 0 12.5v-9zM1.5 3a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5h-13z"></path>
+  <path d="M2 4.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 0 1H3v2.5a.5.5 0 0 1-1 0v-3zm12 7a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1 0-1H13V8.5a.5.5 0 0 1 1 0v3z"></path>
+</svg>
+<!-- /wp:html --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"66.66%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:66.66%"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"100","textTransform":"uppercase"}}} -->
+<h3 style="font-style:normal;font-weight:100;text-transform:uppercase">consectetur ADI</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Suspendisse volutpat, risus sed semper aliquam, est dui vulputate nibh, ut consequat mauris purus ac orci.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
